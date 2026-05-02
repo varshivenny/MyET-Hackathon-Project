@@ -79,4 +79,4 @@ Developer-Ready API: Full Swagger documentation available at localhost:8000/docs
 **Contributors** :
 Korivi Varshitha - Project Collaborator
 
-Developed for the ET_AI_Hackathon 2026.
+Developed for the Ethara AI.
