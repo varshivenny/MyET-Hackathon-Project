@@ -3,7 +3,7 @@ MyET is an AI-native platform that transforms tech news into personalized intell
 
 # MyET: AI-Native News Experience 
 
-**MyET** is an intelligent news analysis platform built for the **ET Gen AI Hackathon 2026**. It transforms static business and tech news into deeply personalized, actionable intelligence using a **Multi-Agent Orchestration** system powered by the **Google Gemini 2.5** series.
+**MyET** is an intelligent news analysis platform built for the **Ethara AI**. It transforms static business and tech news into deeply personalized, actionable intelligence using a **Multi-Agent Orchestration** system powered by the **Google Gemini 2.5** series.
 
 ## The Innovation: "Personalized Relevance"
 Traditional news aggregators provide the same content to everyone. **MyET** solves this by using AI Agents to answer the critical question: *"Why does this matter to ME?"* based on the user's specific professional role and interests (Software Engineering, AI, and Finance).
